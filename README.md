@@ -91,6 +91,10 @@ ecommerce-bigquery-funnel-analysis/
 
 ## Dashboard
 
+View the live interactive dashboard here:
+
+[Open Live Data Studio Dashboard](https://datastudio.google.com/reporting/a261678b-9edc-44d4-a558-9149858efb20)
+
 View the dashboard PDF here:
 
 [Download Dashboard PDF](dashboard/ecommerce_conversion_funnel_dashboard.pdf)
