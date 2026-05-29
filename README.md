@@ -99,6 +99,10 @@ View the dashboard PDF here:
 
 [Download Dashboard PDF](dashboard/ecommerce_conversion_funnel_dashboard.pdf)
 
+### Dashboard Preview
+
+![Dashboard Preview](dashboard/dashboard_preview.png)
+
 ## Author
 
 Aaron Navarro
