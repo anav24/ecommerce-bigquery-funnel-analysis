@@ -91,7 +91,9 @@ ecommerce-bigquery-funnel-analysis/
 
 ## Dashboard
 
-The dashboard PDF is located in the `dashboard` folder.
+View the dashboard PDF here:
+
+[Download Dashboard PDF](dashboard/ecommerce_conversion_funnel_dashboard.pdf)
 
 ## Author
 
